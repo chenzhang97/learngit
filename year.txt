@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>CHAPTER I_The Wonderful Year_经典英文小说</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="CHAPTER I,The Wonderful Year,经典英文小说"/>
+<meta name="description" content="CHAPTER I,The Wonderful Year,经典英文小说"/>
+<meta name="mobile-agent" content="format=html5;url=http://novel.tingroom.com/wap/index.php?type=4&zid=94220">
+<meta name="mobile-agent" content="format=xhtml;url=http://novel.tingroom.com/wap/index.php?type=4&zid=94220">
+<link rel="shortcut icon" type="image/x-icon" href="http://novel.tingroom.com/favicon.ico"/>
+<link rel="bookmark" type="image/x-icon" href="http://novel.tingroom.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/template/default/tingnovel/images/style1.css">
+<script type="text/javascript" src="http://novel.tingroom.com/lang/zh-cn/lang.js"></script>
+<script type="text/javascript" src="http://novel.tingroom.com/file/script/config.js"></script>
+<script type="text/javascript" src="http://novel.tingroom.com/file/script/jquery.js"></script>
+<script type="text/javascript" src="http://novel.tingroom.com/file/script/common.js"></script>
+<script type="text/javascript" src="http://novel.tingroom.com/file/script/page.js"></script>
+<script>
+GoMobile('http://novel.tingroom.com/wap/index.php?type=4&zid=94220');
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-0119746079916199");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleUseIframeRendering();
+</script>
+<script src="http://novel.tingroom.com/js/hc_enread.js" type="text/javascript"></script>
+</head>
+<body>
+<script>
+function AddFavorite(sURL, sTitle) {
+ sURL = encodeURI(sURL); 
+ try{ 
+ window.external.addFavorite(sURL, sTitle); 
+ }catch(e) { 
+ try{ 
+ window.sidebar.addPanel(sTitle, sURL, ""); 
+ }catch (e) { 
+ alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+ } 
+ }
+ }
+ //设为首页
+ function SetHome(url){
+ if (document.all) {
+ document.body.style.behavior='url(#default#homepage)';
+ document.body.setHomePage(url);
+ }else{
+ alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+ }
+ }
+</script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'></script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-0119746079916199");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleUseIframeRendering();
+</script>
+<div class="top_menu">
+<div class="f_r" id="destoon_member"></div>
+</div>
+<div class="area">
+  <div class="topz">
+    <div class="tops">
+      <div class="topsz"><a href="http://novel.tingroom.com/"><img src="/template/default/tingnovel/images/logoa.gif"></a></div>
+      <div class="topsy">
+        <div class="add"><script src="/guanggao/head-ad.js"></script></div>
+        <div id="qrcode">
+        <img width="75" height="75" src="/template/default/tingnovel/images/qrcode.jpg">
+        </div>
+        <div class="adda">
+        <ul>
+<li><a onclick="javascript:SetHome('http://novel.tingroom.com')" target="_self" href="javascript:void(0);">设为首页</a>&nbsp;<a onclick="javascript:AddFavorite('http://novel.tingroom.com','英文小说网')" target="_self" href="javascript:void(0);">收藏本站</a></li>
+            <li><a target="_self" href="/tag_list.php">tag标签</a>&nbsp;
+<a target="_self" href="/keywords_list.php">关键词列表</a></li>
+        </div>
+      </div>
+    </div>
+    <div class="topx">
+      <div class="topxz" align="center"><a href="/" class="hots">首页</a></div>
+      <div class="topxy">
+        <ul class="uul">
+          <li><a href="/jingdian/">经典英文小说</a><span>|</span></li>
+          <li><a href="/shuangyu/">双语小说</a><span>|</span></li>
+          <li><a href="/mingren/">英文名人传记</a><span>|</span></li>
+          <li><a href="/lizhi/">英文励志小说</a><span>|</span></li>
+          <li><a href="/duanpian/">英文短篇小说</a><span>|</span></li>
+          <li><a href="/kehuan/">英文科幻小说</a><span>|</span></li>
+          <li><a href="/ertong/">儿童英文小说</a><span>|</span></li>
+          <li><a href="/zongjiao/">英文宗教小说</a><span>|</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="area">
+  <div class="gundong2">
+   <form  name="formsearch" action="" onSubmit="check();">
+      <strong>小说搜索</strong>：
+      <input name="kw" type="text" class="search-keyword" id="search-keyword" value="在这里搜索..." onfocus="if(this.value=='在这里搜索...'){this.value='';}"  onblur="if(this.value==''){this.value='在这里搜索...';}" />
+&nbsp;&nbsp;<button class="btn_mouseout" type="submit"  style="width:89px; height:19px; padding-top:5px; border:0" title="搜索"></button>&nbsp;&nbsp;<a href="/count.php">点击排行榜</a>&nbsp;&nbsp; <a href="/new.php">最新入库</a></form>
+  </div>
+</div>
+<script type="text/javascript">
+function check(){
+document.formsearch.action="/novel_search.php"
+}
+</script>
+<div class="gundong">
+  <div class="gundong1"> 
+<div style="float:left;width:100%;overflow:hidden;">
+<a href="http://novel.tingroom.com/">首页</a> &raquo; <a href="/jingdian">经典英文小说</a> &raquo; <a href="/jingdian/3472">The Wonderful Year</a> &raquo; <font color="#000000">CHAPTER I</font>
+</div>
+    </div>
+</div>
+<div class="zhongvbxxv" id="jsreadbox" style="background: rgb(239, 246, 252);">
+<div id="box_show"><!--主体1-->
+    <script type="text/javascript" src="http://novel.tingroom.com/file/script/hquery1.03.mini.js"></script>
+    <script type="text/javascript" src="http://novel.tingroom.com/file/script/view131127.js"></script>
+<div id="showmain">
+<div class="fontSize" >
+<strong>选择底色：</strong><script language="javascript" type="text/javascript">InitWriteSelect();</script>
+<strong>选择字号：</strong><span v="16px" onclick="bian(1)">【大】</span><span v="14px" onclick="bian(2)">【中】</span><span v="12px" onclick="bian(3)">【小】</span></div>
+<div class="next">
+<span class="lastpage">(快捷键:左键)上一篇:
+没有了
+</span>
+<span><a class="book_showtitle" href="/jingdian/3472">返回目录</a></span>
+<span class="nextpage">下一篇:
+<a href="94221.html" id="zhang_down">CHAPTER II</a>
+(快捷键:右键)
+</span>
+</div>
+<div class="title">
+<span>CHAPTER I</span>
+</div>
+<div class="shouc"><script type="text/javascript" src="/template/default/tingnovel/images/fx.js"></script></div>
+<div class="text" id="tt_text">  
+<div id="play_ggr" style="float:right;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-0119746079916199";
+/* tingroom-300x250 */
+google_ad_slot = "4893100664";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+&nbsp;THERE is a letter for you, monsieur,&rdquo; said the concierge of the H?tel du Soleil et de l&rsquo;Ecosse.
+<div>He was a shabby concierge sharing in the tarnish of the shabby hotel which (for the information of those fortunate ones who only know of the Ritz, and the Meurice and other such-like palaces) is situated in the unaristocratic neighbourhood of the Halles Centrales.</div>
+<div>&ldquo;As it bears the Paris postmark, it must be the one which monsieur was expecting,&rdquo; said he, detaching it from the clip on the keyboard.</div>
+<div>&ldquo;You are perfectly right,&rdquo; said Martin Overshaw. &ldquo;I recognise the handwriting.&rdquo;</div>
+<div>The young Englishman sat on the worn cane seat in the little vestibule and read his letter. It ran:</div>
+<div>&nbsp;</div>
+<div>Dear Martin,</div>
+<div>I&rsquo;ve been away. Otherwise I should have answered your note sooner. I&rsquo;m delighted you&rsquo;re in this God-forsaken city, but what brought you here in August, Heaven only knows. We must meet at once. I can&rsquo;t ask you to my abode, because I&rsquo;ve only one room, one chair and a bed, and you would be shocked to sit on the chair while I sat on the bed, or to sit on the bed while I sat on the chair. And I couldn&rsquo;t offer you anything but a cigarette (caporal, &agrave; quatre sous le paquet) and the fag end of a bottle of grenadine syrup and water. So let us dine together at the place where I take such meals as I can afford. Au Petit Cornichon, or as the snob of a proprietor yearns to call it, The &ldquo;Restaurant Dufour.&rdquo; It&rsquo;s a beast of a hole in the Rue Baret off the Rue Bonaparte; but I don&rsquo;t think either of us could run to the Caf&eacute; de Paris or Paillard&rsquo;s and we&rsquo;ll have it all to ourselves. Meet me there at seven.</div>
+<div>Yours sincerely,</div>
+<div>Corinna Hastings.</div>
+<div>Martin Overshaw rose and addressed the concierge.</div>
+<div>&ldquo;Where is the Rue Bonaparte?&rdquo;</div>
+<div>The concierge informed him.</div>
+<div>&ldquo;I am going to dine with a lady at a restaurant called the Petit Cornichon. Do you think I had better wear evening dress?&rdquo;</div>
+<div>The concierge was perplexed. The majority of the British frequenters of the hotel, when they did not dine in gangs at the table d&rsquo;h?te, went out to dinner in flannels or knickerbockers, and wore cloth caps, and looked upon the language of the country as an incomprehensible joke. But here was a young Englishman of a puzzling type who spoke perfect French with a strange purity of accent, in spite of his abysmal ignorance of Paris, and talked about dressing for dinner.</div>
+<div>&ldquo;I will ask Monsieur Bocardon,&rdquo; said he.</div>
+<div>Monsieur Bocardon, the manager, a fat, greasy Proven?al, who sat over a ledger in the cramped bureau, leaned back in his chair and threw out his hands.</div>
+<div>&ldquo;Evening dress in a little restaurant of the quartier. Mais non! They would look at you through the windows. There would be a crowd. It would be an affair of the police.&rdquo;</div>
+<div>Martin Overshaw smiled. &ldquo;Merci, monsieur,&rdquo; said he. &ldquo;But as you may have already guessed, I am new to Paris and Paris ways.&rdquo;</div>
+<div>&ldquo;That doesn&rsquo;t matter,&rdquo; replied Monsieur Bocardon graciously. &ldquo;Paris isn&rsquo;t France. We of the south&mdash;I am from N?mes&mdash;care that for Paris&mdash;&mdash;&rdquo; he snapped his fingers. &ldquo;Monsieur knows the Midi?&rdquo;</div>
+<div>&ldquo;It is my first visit to France,&rdquo; said Martin.</div>
+<div>&ldquo;Mais comment donc? You speak French like a Frenchman.&rdquo;</div>
+<div>&ldquo;My mother was a Swiss,&rdquo; replied Martin ingenuously. &ldquo;And I lived all my boyhood in Switzerland&mdash;in the Canton de Vaud. French is my mother tongue, and I have been teaching it in England ever since.&rdquo;</div>
+<div>&ldquo;Aha! Monsieur is professeur?&rdquo; Monsieur Bocardon asked politely.</div>
+<div>&ldquo;Yes, professeur,&rdquo; said Martin, conscious for the first time in his life of the absurd dignity of the French title. It appealed to a latent sense of humour and he smiled wryly. Yes. He was a Professor&mdash;had been for the last ten years, at Margett&rsquo;s Universal College, Hickney Heath; a professor engaged in cramming large classes of tradesmen&rsquo;s children, both youths and maidens, with such tricksters&rsquo; command of French grammar and vocabulary as would enable them to obtain high marks in the stereotyped examinations for humble positions in the Public and semi-public services. He had reduced the necessary instruction to an exact science. He had carried hundreds of pupils through their examinations with flying colours; but he had never taught a single human being to speak thirty consecutive coherent words of French or to read and enjoy a French book. When he was very young and foolish he had tried to teach them the French speech as a living, organic mode of communication between human beings, with the result that his pupils soul-strung for examinations had revolted and the great Cyrus Margett, founder of the colossal and horrible Strasbourg goose factory known as Margett&rsquo;s Universal College, threatened to sack him if he persisted in such damnable and unprofitable imbecility. So, being poor and unenterprising and having no reason to care whether a Mr. James Bagshawe or a Miss Susan Tulliver profited for more than the examination moment by his teaching, he had taught the dry examination-bones of the French language for ten years. And&mdash;&ldquo;Monsieur est professeur,&rdquo; from Monsieur Bocardon!</div>
+<div>Then, as he turned away and began to mount the dingy stairs that led to his bedroom, it struck him that he was now only a professor in partibus. He was no longer a member of the professorial staff of Margett&rsquo;s Universal College. The vast, original Margett had retired with fortune, liver and head deservedly swollen to county magnateship, leaving, for pecuniary considerations, the tremendous educational institution to a young successor, who having adopted as his watchword the comforting shibboleth, &ldquo;efficiency,&rdquo; had dismissed all those professors who did not attain his standard of slickness. Martin Overshaw was not slick. The young apostle of efficiency had dismissed Martin Overshaw at a month&rsquo;s notice, after ten years service. It was as though a practised gougeur or hand gorger of geese had been judged obsolescent and made to give place to one who gorged them by Hertzian rays. The new Olympian had flashed a glance, a couple of lightning questions at Martin and that was the end.</div>
+<div>In truth, Martin Overshaw did not emanate efficiency like the eagle-faced men in the illustrated advertisements who undertake to teach you how to become a millionaire in a fortnight. He was of mild and modest demeanour; of somewhat shy and self-depreciatory attitude; a negligible personality in any assemblage of human beings; a man (according to the blasphemous saying) of no account. Of medium height, thin, black-haired, of sallow complexion, he regarded the world unspeculatively out of clear grey eyes, that had grown rather tired. As he brushed his hair before the long strip of wardrobe mirror, it did not occur to him to criticise his reflected image. He made no claims to impeccability of costume. His linen and person were scrupulously clean; his sober suit comparatively new. But his appearance, though he knew it not, suffered from a masculine dowdiness, indefinable, yet obvious. His ill-tied cravat had an inveterate quarrel with his ill-chosen collar and left the collar stud exposed, and innocent of sumptuary crime he allowed his socks to ruck over his ankles. . . . Once he had grown a full black beard, full in the barber&rsquo;s sense, but dejectedly straggling to the commonplace eye of a landlady&rsquo;s daughter who had goaded him into a tepid flirtation. To please the nymph long since married to a virtuous plumber whom Martin himself had called in to make his bath a going concern, he had divested himself of the offending excrement and contented himself thenceforward with a poor little undistinguished moustache. A very ordinary, unarresting young man was Martin Overshaw. Yet, in his simple, apologetic way&mdash;exempli gratia, when he smiled with deferential confidence on the shabby concierge and the greasy Monsieur Bocardon&mdash;he carried with him an air of good-breeding, a disarming, sensitiveness of manner which commanded the respect, contemptuous though it might have sometimes been, of coarser natures. A long, thin, straight nose with delicate nostrils, the only noticeable feature of his face, may have had something to do with this impression of refinement. Much might be written on noses. The Great Master of Noseology, Lawrence Sterne, did but broach the subject. On account, perhaps, of a long head terminating in a long blunt chin, and a mild patience of expression, he bore at Margett&rsquo;s Universal College the traditional sobriquet of &ldquo;Cab-horse.&rdquo;</div>
+<div>The cab-horse, however, was now turned out to grass&mdash;in August Paris. He had been there three days and his head swam with the wonder of it. As he walked along the indicated route to the Petit Cornichon in the airless dark, he felt the thrill of freedom and of romance. Down the Boulevard S&eacute;bastopol he went, past the Tour Saint Jacques, through the Place du Chatelet over the Pont au Change and across the ?le de la Cit&eacute; to the Boulevard Saint Michel, and turned to the right along the Boulevard Saint Germain until he came to the Rue Bonaparte and his destination. It was the sweltering cool of the evening. Paris sat out of doors, at caf&eacute;s, at gateways in shirt sleeves and loosened bodices, at shop fronts, at dusty tables before humble restaurants. Pedestrians walked languidly in quest of ultimate seats. In the wide thoroughfares the omnibuses went their accustomed route; but motor-cabs whizzed unfrequent for lack of custom&mdash;they who could afford to ride in taxi-autos on the rive gauche were far away in cooler regions&mdash;and the old horses of crawling fiacres hung stagnant heads. Only the stale dregs of Paris remained in the Boul&rsquo; Mich. Yet it was Fairyland to the emancipated professor in partibus who paused here and there to catch the odd phrases of his mother tongue which struck his ears with delicious unfamiliarity. Paris, too, that close, sultry evening, smelled of unutterable things; but to Martin Overshaw it was the aroma of a Wonder City.</div>
+<div>He found without difficulty the Caf&eacute;-Restaurant Dufour whose gilded style and title eclipsed the modest sign of the &ldquo;Petit Cornichon&rdquo; prudently allowed to remain in porcelain letters on the glass of door and windows. Under the ?gis, as it were, of the poor &ldquo;little gherkin&rdquo; and independent of the magnificent Dufour establishment, was the announcement displayed: &ldquo;D&eacute;jeuners 1 fr. 50. D?ners 2 fr. Vin Compris.&rdquo; The ground floor was a small caf&eacute;, newly decorated with fresco panels of generously unclad ladies dropping roses on goat-legged gentlemen: symptoms of the progressive mind of the ambitious Monsieur Dufour. Only two tables were occupied&mdash;by ruddy-faced provincials engaged over coffee and dominoes. To Martin, standing embarrassed, came a pallid waiter.</div>
+<div>&ldquo;Monsieur d&eacute;sire?&rdquo;</div>
+<div>&ldquo;Le Restaurant.&rdquo;</div>
+<div>&ldquo;C&rsquo;est en haut, monsieur, Au premier.&rdquo;</div>
+<div>He pointed to a meagre staircase on the left-hand side. Martin ascended and found himself alone in a ghostly-tabled room. From a doorway emerged another pallid waiter, who also addressed him with the enquiry: &ldquo;Monsieur d&eacute;sire?&rdquo;&mdash;but the enquiry was modulated with a certain subtle inflection of surprise and curiosity.</div>
+<div>&ldquo;I am expecting a lady,&rdquo; said Martin.</div>
+<div>&ldquo;Bien, monsieur. A table for two? Voici.&rdquo;</div>
+<div>He drew back an inviting chair.</div>
+<div>&ldquo;I should like this one by the window,&rdquo; said Martin. The room being on the entresol, the ceiling was low and the place reeked with reproachful reminders of long-forgotten one-franc-fifty and two-franc meals.</div>
+<div>&ldquo;I am sorry, Monsieur,&rdquo; replied the waiter, &ldquo;but this table is reserved by a lady who takes here all her repasts. Monsieur can see that it is so by the half-finished bottle of mineral water.&rdquo;</div>
+<div>He held up the bottle of Evian in token of his veracity. Scrawled in pencil across the label ran the inscription, &ldquo;Mlle. Hastings.&rdquo;</div>
+<div>&ldquo;Mademoiselle Hastings!&rdquo; cried Martin. &ldquo;Why, that is the lady I am expecting.&rdquo;</div>
+<div>The waiter smiled copiously. Monsieur was a friend of Miss Hastings? Then it was a different matter. Mademoiselle said she would be back to-night and that was why her bottle of Evian had been preserved for her. She was the only one left of the enormous client&egrave;le of the restaurant. It was a restaurant of students. In the students&rsquo; season, not a table for the chance comer. All engaged. The students paid so much per week or per month for nourishment. It really was a pension, enfin, for board without lodging. When the students were away from Paris the restaurant was kept open at a loss; not a very great loss, for in Paris one knew how to accommodate oneself to circumstance. Good provincials and English tourists sometimes wandered in. One always then indicated the decorations, real masterpieces some of them. . . . Only a day or two ago an American traveller had taken photographs. If Monsieur would deign to look round . . .</div>
+<div>Martin deigned. Drawings in charcoal and crayon on the distempered walls, caricatures, bold nudes, bars of music, bits of satiric verse, flowing signatures, bore evidence of the passage of many generations of students.</div>
+<div>&ldquo;It amuses them,&rdquo; said the waiter, &ldquo;and gives the place a character.&rdquo;</div>
+<div>He was pointing out the masterpieces when a young voice by the door sang out:</div>
+<div>&ldquo;Hallo, Martin!&rdquo;</div>
+<div>Martin turned and met the welcoming eyes of Corinna Hastings, fair-haired, slender, neatly dressed in blue serge coat and skirt and a cheap little hat to which a long pheasant&rsquo;s feather gave a touch of bravado.</div>
+<div>&ldquo;You&rsquo;re a real Godsend,&rdquo; she declared. &ldquo;I was thinking of throwing myself into the river, only there would have been no one on the deserted bridge to fish me out again. I am the last creature left in Paris.&rdquo;</div>
+<div>&ldquo;I am more than lucky then to find you, Corinna,&rdquo; said Martin. &ldquo;For you&rsquo;re the only person in Paris that I know.&rdquo;</div>
+<div>&ldquo;How did you find my address?&rdquo;</div>
+<div>&ldquo;I went down to Wendlebury&mdash;&mdash;&rdquo;</div>
+<div>&ldquo;Then you saw them all?&rdquo; said Corinna, as they took their seats at the window-table. &ldquo;Father and mother and Bessie and Joan and Ada, etcetera, etcetera down to the new baby. The new baby makes ten of us alive&mdash;really he&rsquo;s the fourteenth. I wonder how many more there are going to be?&rdquo;</div>
+<div>&ldquo;I shouldn&rsquo;t think there would be any more,&rdquo; replied Martin gravely.</div>
+<div>Corinna burst out laughing.</div>
+<div>&ldquo;What on earth can you know about it?&rdquo;</div>
+<div>The satirical challenge brought a flush to Martin&rsquo;s sallow cheek. What did he know in fact of the very intimate concerns of the Reverend Thomas Hastings and his wife?</div>
+<div>&ldquo;I&rsquo;m afraid they find it hard to make both ends meet, as it is,&rdquo; he explained.</div>
+<div>&ldquo;Yet I suppose they all flourish as usual&mdash;playing tennis and golf and selling at bazaars and quarrelling over curates?&rdquo;</div>
+<div>&ldquo;They all seem pretty happy,&rdquo; said Martin, not overpleased at his companion&rsquo;s airy treatment of her family. He, himself, the loneliest of men, had found grateful warmth among the noisy, good-hearted crew of girls. It hurt him to hear them contemptuously spoken of.</div>
+<div>&ldquo;It was the first time you went down since&mdash;&mdash;!&rdquo; she paused.</div>
+<div>&ldquo;Since my mother died? Yes. She died early in May, you know.&rdquo;</div>
+<div>&ldquo;It must be a terrible loss to you,&rdquo; said Corinna in a softened voice.</div>
+<div>He nodded and looked out of window at the houses opposite. That was why he was in Paris. For the last ten years, ever since his father&rsquo;s death had hurried him away from Cambridge, after a term or two, into the wide world of struggle for a living, he had spent all his days of freedom in the little Kentish town. And these days were few. There were no long luxurious vacations at Margett&rsquo;s Universal College, such as there are at ordinary colleges and schools. The grind went on all the year round, and the staff had but scanty holidays. Such as they were he passed them at his mother&rsquo;s tiny villa. His father had given up the chaplaincy in Switzerland, where he had married and where Martin had been born, to become Vicar of Wendlebury, and Mr. Hastings was his successor. Mrs. Overshaw, with her phlegmatic temperament, had taken root in Wendlebury and there Martin had visited her and there he had been received into the intimacy of the Hastings family and there she had died; and now that the little villa was empty and Martin had no place outside London to lay his leisured head, he had satisfied the dream of his life and come to Paris. But even in this satisfaction there was pain. What was Paris compared with the kind touch of that vanished hand? He sighed. He was a simple soul in spite of his thirty years.</div>
+<div>The waiter roused him from his sad reflections by bringing the soup and a bottle of thin red wine. Conscious of food and drink and a female companion of prepossessing exterior, Martin&rsquo;s face brightened.</div>
+<div>&ldquo;It&rsquo;s so jolly of them in Paris to throw in wine like this,&rdquo; said he.</div>
+<div>&ldquo;I only hope you can drink the stuff,&rdquo; remarked Corinna. &ldquo;We call it tord-boyau.&rdquo;</div>
+<div>&ldquo;It&rsquo;s a rare treat,&rdquo; said Martin. &ldquo;I can&rsquo;t afford wine in England, and the soup is delicious. Somehow no English landlady ever thinks of making it.&rdquo;</div>
+<div>&ldquo;England is a beast of a place,&rdquo; said Corinna.</div>
+<div>&ldquo;Yet in your letter you called Paris a God-forsaken city.&rdquo;</div>
+<div>&ldquo;So it is in August. The schools are closed. Not a studio is open. Every single student has cleared out and there&rsquo;s nothing in the world to do.&rdquo;</div>
+<div>&ldquo;I&rsquo;ve found heaps to do,&rdquo; said Martin.</div>
+<div>&ldquo;The Pantheon and Notre Dame and the Folies Berg&egrave;re,&rdquo; said Corinna. &ldquo;There&rsquo;s also the Eiffel Tower. Imagine a three years&rsquo; art-student finding fun on the Eiffel Tower!&rdquo;</div>
+<div>&ldquo;Then why haven&rsquo;t you gone home this August as usual?&rdquo; asked Martin.</div>
+<div>Corinna knitted her brows. &ldquo;That&rsquo;s another story,&rdquo; she replied shortly.</div>
+<div>&ldquo;I beg your pardon. I didn&rsquo;t mean to be impertinent,&rdquo; said Martin.</div>
+<div>She laughed. &ldquo;Don&rsquo;t be silly&mdash;you think wallowing in the family trough is the height of bliss. It isn&rsquo;t. I would sooner starve than go back. At any rate I should be myself, a separate entity, an individual. Oh, that being merely a bit of clotted family! How I should hate it!&rdquo;</div>
+<div>&ldquo;But you would return to Paris in the autumn,&rdquo; said Martin.</div>
+<div>Again she frowned and broke her bread impatiently. All that was another story. &ldquo;But never mind about me. Tell me about yourself, Martin. Perhaps we may fix up something merry to do together. P&egrave;re la Chaise or the Tomb of Napoleon. How long are you staying in Paris?&rdquo;</div>
+<div>&ldquo;I can only afford a week&mdash;I&rsquo;ve already had three days. I must look out for another billet as soon as possible.&rdquo;</div>
+<div>&ldquo;Another billet?&rdquo;</div>
+<div>Her question reminded him that she was ignorant of his novel position as professor in partibus. He explained, over the b?uf flammande. Corinna putting the &ldquo;other story&rdquo; of her own trouble aside listened sympathetically. All Paris art-students must learn to do that; otherwise who would listen sympathetically to them? And all art-students want a prodigious amount of sympathy, so uniquely constituted is each in genius and temperament.</div>
+<div>&ldquo;You can&rsquo;t go back to that dog&rsquo;s life,&rdquo; she said, after a while. &ldquo;You must get a post in a good public-school.&rdquo;</div>
+<div>Martin sighed. &ldquo;Why not in the Kingdom of Heaven? It&rsquo;s just as possible. Heads of Public Schools don&rsquo;t engage as masters men who haven&rsquo;t a degree and have hacked out their youth in low-class institutions like Margett&rsquo;s. I know only too well. To have been at Margett&rsquo;s damns me utterly with the public-schools. I must find another Margett&rsquo;s!&rdquo;</div>
+<div>&ldquo;Why don&rsquo;t you do something else?&rdquo; asked the girl.</div>
+<div>&ldquo;What else in the world can I do? You know very well what happened to me. My poor old father was just able to send me to Cambridge because I had a good scholarship. When he died there was nothing to supplement the scholarship which wasn&rsquo;t enough to keep me at the University. I had to go down. My mother had nothing but my father&rsquo;s life insurance money&mdash;a thousand pounds&mdash;and twenty pounds a year from the Freemasons. When she wrote to her relations about her distress, what do you think my damned set of Swiss uncles and aunts and cousins sent her? Two hundred francs! Eight pounds! And they&rsquo;re all rolling in money got out of the English. I had to find work at once to support us both. My only equipment was a knowledge of French. I got a post at Margett&rsquo;s through a scholastic agency. I thought it a miracle. When the letter came accepting my application I didn&rsquo;t sleep all night. I remained there till a week or so ago, working twelve hours a day all the year round. I don&rsquo;t say I had classes for twelve hours,&rdquo; he admitted, conscientiously, &ldquo;but when you see about a couple of hundred pupils a day and they all do written work which needs correcting, you&rsquo;ll find you have as much work in class as out of class. Last night I dreamed I was confronted with a pile of exercise books eight feet high.&rdquo;</div>
+<div>&ldquo;It&rsquo;s a dog&rsquo;s life,&rdquo; Corinna repeated.</div>
+<div>&ldquo;It is,&rdquo; said Martin. &ldquo;Mais que veux-tu, ma pauvre Corinne. I detest it as much as one can detest anything. If even I was a successful teacher&mdash;passe encore. But I doubt whether I have taught anybody even the r&eacute;gime du participe pass&eacute; save as a mathematical formula. It&rsquo;s heart-rending. It has turned me into a brainless, soulless, heartless, bloodless machine.&rdquo;</div>
+<div>For a moment or two the glamour of the Parisian meal faded away. He beheld himself&mdash;as he had wofully done in intervals between the raptures of the past few days&mdash;an anxious and despairing young man: terribly anxious to obtain another abhorred teachership, yet desperate at the prospect of lifelong, ineffectual drudgery. Corinna, her elbows on the table, poising in her hand a teaspoonful of tepid strawberry ice, regarded him earnestly.</div>
+<div>&ldquo;I wish I were a man,&rdquo; she declared.</div>
+<div>&ldquo;What would you do?&rdquo;</div>
+<div>She swallowed the morsel of ice and dropped her spoon with a clatter.</div>
+<div>&ldquo;I would take life by the throat and choke something big out of it,&rdquo; she cried dramatically.</div>
+<div>&ldquo;Probably an ocean of tears or a Sahara of despair,&rdquo; said a voice from the door.</div>
+<div>Both turned sharply. The speaker was a middle-aged man of a presence at once commanding and subservient. He had a shock of greyish hair brushed back from the forehead and terminating above the collar in a fashion suggestive of the late Abb&eacute; Liszt. His clean-shaven face was broad and massive; the features large: eyes grey and prominent; the mouth loose and fleshy. Many lines marked it, most noticeable of all a deep, vertical furrow between the brows. He was dressed, somewhat shabbily, in a black frock coat suit and wore the white tie of the French attorney. His voice was curiously musical.</div>
+<div>&ldquo;Good Lord, Fortinbras, how you startled me!&rdquo; exclaimed Corinna.</div>
+<div>&ldquo;I couldn&rsquo;t help it,&rdquo; said he, coming forward. &ldquo;When you turn the Petit Cornichon into the stage of the Od&eacute;on, what can I do but give you the reply? I came here to find our good friend Widdrington.&rdquo;</div>
+<div>&ldquo;Widdrington went back to England this morning,&rdquo; she announced.</div>
+<div>&ldquo;That&rsquo;s a pity. I had good news for him. I have arranged his little affair. He should be here to profit by it. I love impulsiveness in youth,&rdquo; he said addressing himself to Martin, &ldquo;when it proceeds from noble ardour; but when it marks the feather-headed irresponsibility of the idiot, I cannot deprecate it too strongly.&rdquo;</div>
+<div>Challenged, as it were, for a response, &ldquo;I cordially agree with you, sir,&rdquo; said Martin.</div>
+<div>&ldquo;You two ought to know one another,&rdquo; said Corinna. &ldquo;This is my friend, Mr. Overshaw&mdash;Martin, let me introduce you to Mr. Daniel Fortinbras, Marchand de Bonheur.&rdquo;</div>
+<div>Fortinbras extended a soft white hand and holding Martin&rsquo;s benevolently:</div>
+<div>&ldquo;Which being translated into our rougher speech,&rdquo; said he, &ldquo;means Dealer in Happiness.&rdquo;</div>
+<div>&ldquo;I wish you would provide me with some,&rdquo; said Martin, laughingly.</div>
+<div>&ldquo;And so do I,&rdquo; said Corinna.</div>
+<div>Fortinbras drew a chair to the table and sat down.</div>
+<div>&ldquo;My fee,&rdquo; said he, &ldquo;is five francs each, paid in advance.&rdquo;</div><div class="zj_ad_d"><script src="/guanggao/sy_728.js" type="text/javascript"></script></div>
+<br><br>
+<table width="100%"  border="0">
+  <tr>
+    <td>欢迎访问<a href="http://novel.tingroom.com/">英文小说网</a><a href="http://novel.tingroom.com/">http://novel.tingroom.com</a></td>
+    <td><div align="right"><a href="http://test.qsbdc.com/" target="_blank"><font color="#FF0000">只需30秒，测测你的英语词汇量！</font></a></div></td>
+  </tr>
+</table>
+</div>
+<div class="next">
+<span class="lastpage">(快捷键:左键)上一篇:
+没有了
+</span>
+<span><a class="book_showtitle" id="zhang_menu" href="/jingdian/3472">返回目录</a></span>
+<span class="nextpage">下一篇:
+<a href="94221.html" id="zhang_down">CHAPTER II</a>
+(快捷键:右键)
+</span>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+function bian(vc){
+if(vc==1){
+document.getElementById("tt_text").style.fontSize = "16px";
+}
+if(vc==2){
+document.getElementById("tt_text").style.fontSize = "14px";
+}
+if(vc==3){
+document.getElementById("tt_text").style.fontSize = "12px";
+}
+}
+if(!document.getElementById("zhang_top")){
+var zhang_top=document.getElementById("zhang_menu").href;
+var zhang_down=document.getElementById("zhang_down").href;  
+var zhang_menu=document.getElementById("zhang_menu").href; 
+}else if(!document.getElementById("zhang_down")){
+var zhang_top=document.getElementById("zhang_top").href;  
+var zhang_down=document.getElementById("zhang_menu").href; 
+var zhang_menu=document.getElementById("zhang_menu").href; 
+}else{
+var zhang_top=document.getElementById("zhang_top").href;  
+var zhang_down=document.getElementById("zhang_down").href;  
+var zhang_menu=document.getElementById("zhang_menu").href;  
+}
+function jumpPage() {
+  var event = document.all ? window.event : arguments[0];
+  if (event.keyCode == 37) document.location = zhang_top;
+  if (event.keyCode == 39) document.location = zhang_down;
+  if (event.keyCode == 13) document.location = zhang_menu;
+}
+document.onkeydown=jumpPage;
+</script>
+<!--弹出MSG效果-->
+<div id="maos_fade" class="maos_msg_fade_class"></div>
+<!--弹出MSG效果-->
+<div id="maos_msg" class="maos_msg_class">
+  <div id="alert_msg" style="height: 40px; line-height: 40px; display: none;">...</div>
+  <input name="" onclick="close_maos_msg()" value="确定" type="button">
+</div>
+<div id="maos_fade" class="maos_msg_fade_class"></div>
+<div class="aream" align="center">
+ <p class="banquan"><P class=banquan>&copy;英文小说网 2005-2010 </P>
+  <P>有任何问题，请给我们<a href="http://bbs.tingroom.com/forum-10-1.html" target="_blank">留言</a>，管理员邮箱：<a href="mailto:tinglishi@gmail.com">tinglishi@gmail.com</a> &nbsp;站长QQ ：<a target=_blank href="tencent://message/?uin=56065533&amp;Site=英文小说网/&amp;Menu=yes"><img border="0" src=http://wpa.qq.com/pa?p=1:56065533:4 alt="点击发送消息和我们联系">56065533</a></p>
+  <P class=banquan>
+  <script src="http://novel.tingroom.com/js/tongji.js"></script> 
+</p>
+</div>
+<script type="text/javascript">
+show_task('moduleid=1025&html=zhangjie&itemid=94220');
+</script></body>
+</html>
